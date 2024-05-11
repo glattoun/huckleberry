@@ -1,0 +1,1 @@
+This D3 script takes a data export from the Huckleberry (https://huckleberrycare.com/) app and creates a radial bar chart. Each bar is a single day, and each segment represents feeding, sleeping, and wake windows.
